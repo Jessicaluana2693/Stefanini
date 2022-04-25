@@ -4,5 +4,5 @@
 
 ### Este é um projeto para a seleção da empresa Stefanini
 
-### Usando
-##### Python, Selenium e Behave
+#### Usando:
+#### Python, Selenium e Behave
